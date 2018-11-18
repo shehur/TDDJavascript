@@ -1,0 +1,14 @@
+{
+  "name": "teste01",
+  "version": "1.0.0",
+  "description": "TDD com Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "author": "Ben-Hur Varriano",
+  "license": "ISC",
+  "devDependencies": {
+    "lab": "^18.0.0"
+  }
+}
