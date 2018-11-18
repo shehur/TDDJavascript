@@ -1,6 +1,6 @@
 const { expect } = require('code');
 const { it } = exports.lab = require('lab').script();
 
-it('a soma de 1 + 1 deve ser 2', () => {
-	expect(1 + 1).to.equal(2);
+it('a soma de 2 + 3 deve ser 5', () => {
+	expect(somar(2, 3)).to.equal(5);
 });
