@@ -9,6 +9,7 @@
   "author": "Ben-Hur Varriano",
   "license": "ISC",
   "devDependencies": {
+    "code": "^5.2.3",
     "lab": "^18.0.0"
   }
 }
